@@ -70,7 +70,7 @@ All assets used in this project are copyright-free.
 
 This project is developed solely by myself as a final project for Harvard University's <a href="https://cs50.harvard.edu/x/2023/">CS50x Introduction to Computer Science Course</a>. I have no commercial or monetary purposes. This is developed only for educational purposes.
 
-Special thanks to Harvard University, Prof. David J. Malan and, the staff!
+Special thanks to Harvard University, Prof. David J. Malan, and the staff!
 
 ## Contact
 
