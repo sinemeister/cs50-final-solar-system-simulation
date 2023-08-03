@@ -11,7 +11,7 @@ It is a simple solar system simulation using **Python**'s **Pygame** module, usi
 
 Main idea of the project is inspired from <a href="https://www.youtube.com/@TechWithTim">Tech With Tim</a>'s <a href="https://www.youtube.com/watch?v=WTLPmUHTPqo"><i>Planet Simulation In Python - Tutorial</i></a> video, which I have watched while I was trying to learn **Pygame** module before I enrolled in CS50x. I have added various features and applied it to the full scale of Solar System, using the same calculations, which are **Newton's universal laws**, as stated above.
 
-**You may find the video demo of the project <a href="https://youtube.com/">here</a>.**
+**You may find the video demo of the project <a href="https://www.youtube.com/watch?v=n77mRVHwe5w">here</a>.**
 
 ## Features & Implementation
 
