@@ -43,7 +43,7 @@ Main idea of the project is inspired from <a href="https://www.youtube.com/@Tech
 ## Instructions on Usage
 
 - Make sure that all the files are in the same folder, e.g. ```project```
-- Change your directory to the folder you keep the files, e.g. ```cd project```
+- Change your directory to the folder you keep the files, e.g. ```cd path\project```
 - Install dependencies from the ```requirements.txt``` by executing ```pip install -r requirements.txt``` at your IDE's terminal (or command prompt). This will successfully install **Pygame**.
 - Start the program at your IDE's terminal (or command prompt) by executing ```python main.py```
 
